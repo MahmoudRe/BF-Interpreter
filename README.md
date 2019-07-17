@@ -22,3 +22,7 @@
   - Make sure to have `make` installed on your linux system, to do so run the following commands
   - `$ sudo apt-get update`
   - `$ sudo apt-get install build-essential`
+
+## Screenshots for HanioTower
+![alt text](Screenshots/screenshot2.png)
+![alt text](Screenshots/screenshot1.png)
