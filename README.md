@@ -19,3 +19,6 @@
 ## How to run the interpreter?
   1. On terminal, run `make`
   2. Then just run `./brainfuck`
+  - Make sure to have `make` installed on your linux system, to do so run the following commands
+  - `$ sudo apt-get update`
+  - `$ sudo apt-get install build-essential`
